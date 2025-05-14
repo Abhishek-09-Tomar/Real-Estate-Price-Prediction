@@ -42,21 +42,6 @@ This project is focused on predicting real estate prices using a dataset contain
 
 ---
 
-## 📊 Data Visualization Project Marking Rubric
-
-| Criteria                                               | Marks |
-|--------------------------------------------------------|-------|
-| Cleaning and handling missing values                   | 5     |
-| Feature selection and engineering                      | 5     |
-| Ensuring data integrity and consistency                | 4     |
-| Summary statistics and insights                        | 4     |
-| Identifying patterns, trends, and anomalies            | 5     |
-| Handling outliers and data transformations             | 3     |
-| Initial visual representation of key findings          | 4     |
-| **Total**                                              | **30**|
-
----
-
 ## 📁 Project Files
 
 - `.gitignore` - To exclude unnecessary files from version control
